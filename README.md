@@ -1,9 +1,7 @@
-# DS-Project-Fraudulent-transaction-analysis
-
-## overview
-This project focuses on detecting fraudulent transactions in a financial dataset simulated for 30 days. The goal is to build a robust machine-learning model that distinguishes between genuine and fraudulent transactions, assisting financial institutions in fraud prevention.
-
 # Fraudulent Transaction Detection
+
+## Project Overview
+This project focuses on detecting fraudulent transactions in a financial dataset simulated for 30 days. The goal is to build a robust machine learning model that distinguishes between genuine and fraudulent transactions, assisting financial institutions in fraud prevention.
 
 ## Data Description
 The dataset includes transactional data with the following features:
@@ -48,6 +46,12 @@ The dataset includes transactional data with the following features:
 - **Jupyter Notebooks**: Include data analysis, feature engineering, and model training processes.
 - **Results**: Model performance metrics and visualizations.
 
+## Data Availability
+The dataset exceeds GitHub's file size limits, so it cannot be uploaded directly to this repository. However, you can access the dataset using the link provided below:
+
+[Dataset Link](https://drive.google.com/file/d/1QGUUeJ3jmZK--5EeC6XRLhg7YMqnOcxy/view?usp=sharing)  
+
+
 ## Getting Started
 1. Clone this repository.
 2. Install dependencies using the requirements.txt file.
@@ -56,7 +60,7 @@ The dataset includes transactional data with the following features:
 
 ## Technologies Used
 - **Languages:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/Keras
 - **Tools:** Jupyter Notebook
 
 ## Future Work
@@ -66,4 +70,3 @@ The dataset includes transactional data with the following features:
 
 ## How to Contribute
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request. For feedback or issues, open a discussion in the Issues section.
-
