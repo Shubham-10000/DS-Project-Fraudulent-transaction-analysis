@@ -56,7 +56,7 @@ The dataset includes transactional data with the following features:
 
 ## Technologies Used
 - **Languages:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/Keras
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Tools:** Jupyter Notebook
 
 ## Future Work
